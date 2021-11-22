@@ -1,5 +1,3 @@
-from itertools import permutations
-
 
 def check_anagram(n_freq, x):
     freq = [0 for i in range(10)]
@@ -26,7 +24,7 @@ def solve(n):
 
 
 def b_helper(n):
-    freq = [0 for i in range(10)]
+    freq = [0 for _ in range(10)]
     res = []
     for c in n:
         freq[int(c)] += 1
