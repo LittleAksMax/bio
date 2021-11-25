@@ -1,15 +1,15 @@
 
 def solve(word):
     letters = [
-        list("ONE"),
-        list("TWO"),
-        list("THREE"),
-        list("FOUR"),
-        list("FIVE"),
-        list("SIX"),
-        list("SEVEN"),
-        list("EIGHT"),
-        list("NINE"),
+        "ONE",
+        "TWO",
+        "THREE",
+        "FOUR",
+        "FIVE",
+        "SIX",
+        "SEVEN",
+        "EIGHT",
+        "NINE",
     ]
     for num in letters:
         i = 0
