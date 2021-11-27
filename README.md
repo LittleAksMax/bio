@@ -1,5 +1,5 @@
 # bio
-## My solutions to the British Informatics Olympiad questions
+## My solutions to the British Informatics Olympiad (round 1) questions
 
 Keep in mind that I'm probably not going to have 1. the most optimized/efficient solutions to all questions and 2. all the answers to each question
 
@@ -27,5 +27,5 @@ Keep in mind that I'm probably not going to have 1. the most optimized/efficient
 | 2017 |         |         |         |
 | 2018 |         |         |         |
 | 2019 | &check; |         |         |
-| 2020 |         |         |         |
+| 2020 | &check; |         |         |
 | 2021 |         |         |         |
