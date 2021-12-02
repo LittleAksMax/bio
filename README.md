@@ -16,16 +16,16 @@ Keep in mind that I'm probably not going to have 1. the most optimized/efficient
 | 2006 |         |         |         |
 | 2007 |         |         |         |
 | 2008 |         |         |         |
-| 2009 |         |         |         |
+| 2009 | partial |         |         |
 | 2010 | &check; |         |         |
 | 2011 | &check; |         |         |
 | 2012 | &check; |         |         |
 | 2013 |         |         |         |
-| 2014 |         |         |         |
+| 2014 | partial |         |         |
 | 2015 |         |         |         |
 | 2016 |         |         |         |
 | 2017 |         |         |         |
 | 2018 |         |         |         |
-| 2019 | &check; |         |         |
+| 2019 | &check; | partial |         |
 | 2020 | &check; |         |         |
 | 2021 |         |         |         |
