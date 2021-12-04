@@ -24,7 +24,7 @@ Keep in mind that I'm probably not going to have 1. the most optimized/efficient
 | 2014 | partial |         |         |
 | 2015 |         |         |         |
 | 2016 |         |         |         |
-| 2017 |         |         |         |
+| 2017 | partial |         |         |
 | 2018 |         |         |         |
 | 2019 | &check; | partial |         |
 | 2020 | &check; |         |         |
