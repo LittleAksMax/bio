@@ -13,7 +13,7 @@ Keep in mind that I'm probably not going to have 1. the most optimized/efficient
 | 2012 | &check; |         |         |
 | 2013 | &check; |         |         |
 | 2014 | partial |         |         |
-| 2015 |         |         |         |
+| 2015 |         |         | partial |
 | 2016 |         |         |         |
 | 2017 | partial |         |         |
 | 2018 | &check; |         |         |
