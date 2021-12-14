@@ -21,4 +21,4 @@ Also I label every question that I haven't answered all parts to (correctly) 'pa
 | 2018 | &check; |         |         |
 | 2019 | &check; | partial |         |
 | 2020 | &check; |         |         |
-| 2021 | partial |         |         |
+| 2021 | partial |         | partial |
